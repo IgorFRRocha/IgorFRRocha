@@ -1,8 +1,8 @@
 # Igor Freitas
 
-**Risk Management**
+**Data Coordinator**
 
-Risk management professional at the world's largest delivery company. Focused on leveraging **Python** and data analysis to drive strategic decision-making and operational integrity.
+Data Analyst professional at the world's largest delivery company. Focused on leveraging **Python**, **Machine Learning** and data analysis to drive strategic decision-making and operational integrity.
 
 ### Stack & Skills
 | Category | Tools |
